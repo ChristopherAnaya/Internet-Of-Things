@@ -5,4 +5,4 @@ The internet of things is a system of devices connected to a network that collec
 ## Real World Examples
 A device is part of an IoT if it communicates with another device using a network and collects or uses data in some way. Some example of IoT are:
 
--
+-fitbit
