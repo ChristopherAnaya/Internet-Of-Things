@@ -5,4 +5,4 @@ The internet of things is a system of devices connected to a network that collec
 ## Real World Examples
 A device is part of an IoT if it communicates with another device using a network and collects or uses data in some way. Some example of IoT are:
 
-- Fitness Trackers like Fitbit,Garmin,Xiaomi collect your fitness data like steps,heart rate,and sleeping patterns.It connects to your smart phone via Bluetooth and the smart phone syncs the data to a cloud platform,allowing you to view detailed insights in an app.
+- Fitness Trackers like Fitbit, Garmin, Xiaomi collect your fitness data like steps,heart rate,and sleeping patterns. It connects to your smart phone via Bluetooth and the smart phone syncs the data to a cloud platform, allowing you to view detailed insights in an app.
