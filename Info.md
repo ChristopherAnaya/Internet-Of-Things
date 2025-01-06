@@ -9,7 +9,7 @@ A device is part of an IoT if it communicates with another device using a networ
 
 - Smart Home Devices like Bluetooth Bulbs use your phone to turn on lights via Bluetooth. If you leave the house,a hub lets you control the lights over the internet.
 
-Some examples of non Iot devices are:
+Some examples of non IoT devices are:
 
 - Standard kitchen appliances such as toaster, ovens, blenders, etc
 
