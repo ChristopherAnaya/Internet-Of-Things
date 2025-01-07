@@ -24,9 +24,13 @@ All wifi networks have a certain amount of **bandwidth**(the max amount of data 
 
 - **HTTP/HTTPS** is used to send and receive data across the internet using requests. The difference between HTTP and HTTPS is that https is the secure version. They often send data to web servers.
 
-## How do IoT interfaces (like bluetooth or Wi-Fi) work with web servers?
+## How do IoT interfaces (like bluetooth or Wi-Fi) work with web servers? 
+Web Applications: 
+IoT Dashboards: Web browsers can display real-time IoT data on dashboards, which are designed using technologies like HTML, CSS, and JavaScript. These dashboards often include charts, graphs, and tables for data visualization.
 
 ## How do browsers help show or manage IoT data?
+Device Connectivity:
+The IoT device connects to a Wi-Fi network using a Wi-Fi module (e.g., ESP32 or Raspberry Pi with Wi-Fi capabilities).
 
 ## Real World Examples
 A device is part of an IoT if it communicates with another device using a network and collects or uses data in some way. Some example of IoT are:
