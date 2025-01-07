@@ -2,6 +2,15 @@
 
 ## Info 
 The internet of things is a system of devices connected to a network that collect, share, or use data. Devices in the network often gather data from their surroundings, automate tasks, or share data with other devices. Most of the network devices share the data using the internet but they can also work on a local network. Not all devices are apart of an IoT. 
+
+Devices use many different networks to connect with each other some of these networks include:
+
+- **Wi-Fi** - A wireless network allowing devices to connect to the internet and communicate with each other over a wireless network. Used in smart homes, phones, computers, game consoles, and most other devices connected to the internet. Used for high speeds.
+
+- **Bluetooth** - Wireless communication between devices in short to medium ranges. Uses radio waves and typically has a range of 10-100 meters. Includes wireless earbuds, some smart home devices, wireless headphones, and wireless sensors.
+
+- **NFC** - Short range wireless communication between devices used for secure data transfer. Usually only has a range of a few centimeters. Typically used for smart locks, credit cards, certain smart watch functions, and tags.
+
 ## Real World Examples
 A device is part of an IoT if it communicates with another device using a network and collects or uses data in some way. Some example of IoT are:
 
