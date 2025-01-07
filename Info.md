@@ -18,6 +18,12 @@ All wifi networks have a certain amount of **bandwidth**(the max amount of data 
 
 ## How do Iot devices use protocols like IPv6 or HTTP/HTTPS to communicate?
 
+**IPv6** and **HTTP/HTTPS** are both **protocols**(a set of of rules that define how devices communicate over a network).
+
+- **IPv6** gives each IoT device a unique address called an **ip address**. It allows devices to communicate over the internet by identifying them with their ip address
+
+- **HTTP/HTTPS** is used to send and receive data across the internet using requests. The difference between HTTP and HTTPS is that https is the secure version. They often send data to web servers.
+
 ## How do IoT interfaces (like bluetooth or Wi-Fi) work with web servers?
 
 ## How do browsers help show or manage IoT data?
