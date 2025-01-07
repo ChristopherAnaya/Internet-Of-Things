@@ -14,7 +14,7 @@ Devices use many different networks to connect with each other some of these net
 
 ## How Do IoT Devices Affect Performance On The Internet?
 
-
+All wifi networks have a certain amount of **bandwidth**(the max amount of data that can be transmitted is a certain amount of time usually in bits per second). Each device connected to a wifi network consumes a certain amount of bandwidth. The more devices are connected the more bandwidth is used. If too many devices are connected the bandwidth for each device will be limited per device and performance will be slower causing side effects like buffering, lag, and slow loading speeds.
 
 ## Real World Examples
 A device is part of an IoT if it communicates with another device using a network and collects or uses data in some way. Some example of IoT are:
